@@ -1,0 +1,15 @@
+.navigation-buttons {
+  margin-top: 20px;
+}
+.navigation-buttons button {
+  padding: 8px 12px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+.navigation-buttons button:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,21 @@
+.form-step {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.form-step label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form-step input,
+.form-step select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
